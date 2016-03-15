@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\DeveloperTools\AndroidStudio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customprogressbar" />
+            <option value="$PROJECT_DIR$/luckydial" />
+            <option value="$PROJECT_DIR$/myapp" />
+            <option value="$PROJECT_DIR$/myprogressbutton" />
+            <option value="$PROJECT_DIR$/progressbutton" />
+            <option value="$PROJECT_DIR$/systembartint" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

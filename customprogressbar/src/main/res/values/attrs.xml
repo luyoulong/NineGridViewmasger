@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="borderRadius" format="dimension"/>
+    <attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr>
+    <!--圆形图片-->
+    <declare-styleable name="RoundImageViewByXfermode">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable>
+
+    <!--自定义TextView-->
+    <declare-styleable name="CustomTextView">
+        <attr name="titletext" format="string"/>
+        <attr name="titletextsize" format="dimension"/>
+        <attr name="titletextcolor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="ProgressButton">
+        <attr name="text" format="string"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="backgroundcolor" format="color"/>
+        <attr name="foregroundcolor" format="color"/>
+        <attr name="progress" format="integer"/>
+        <attr name="max" format="integer"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>
